@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374338c797726524896957f8ab87fc95, type: 3}
+  m_Name: Hunting Bow
+  m_EditorClassIdentifier: 
+  mySprite: {fileID: -1333159919349879821, guid: 63f800961e2c20c49b432ad145273ce2,
+    type: 3}
+  myName: Hunting Bow
+  myDescription: An old hunting bow. Seems worn but gets the job done.
+  isUsable: 0
+  isUnique: 1
+  numberHeld: 1
